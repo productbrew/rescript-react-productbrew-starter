@@ -5,5 +5,5 @@
 To use this starter simply run:
 
 ```sh
-npx create-react-app my-app --template https://github.com/productbrew/rescript-react-productbrew-starter.git
+npx create-react-app my-app --template https://github.com/productbrew/rescript-react-productbrew-starter
 ```
