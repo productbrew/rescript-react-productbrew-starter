@@ -1,6 +1,20 @@
 {
   "name": "rescript-react-productbrew-starter",
   "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "rescript",
+    "tailwindcss"
+  ],
+  "main": "template.json",
+  "description": "The base template for React apps with TypeScript, ReScript and Tailwindcss",
+  "files": [
+    "template",
+    "template.json"
+  ],
   "dependencies": {
     "@craco/craco": "^6.4.3",
     "@rescript/react": "^0.10.3",
