@@ -1,7 +1,6 @@
 {
-  "name": "finance-brew-frontend",
+  "name": "rescript-react-productbrew-starter",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.3",
     "@rescript/react": "^0.10.3",
@@ -24,9 +23,9 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-    "lint": "eslint src/* --quiet --fix",
+    "lint": "eslint --ext js,jsx,ts,tsx --quiet --fix",
     "prepare": "husky install",
-    "prettier": "prettier --write src/*",
+    "prettier": "prettier -c --write src",
     "build:style": "tailwind build src/styles/index.css -o src/styles/tailwind.css"
   },
   "eslintConfig": {

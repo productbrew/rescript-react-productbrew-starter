@@ -5,3 +5,4 @@ coverage
 lib
 *.css
 *.svg
+*.bs.js

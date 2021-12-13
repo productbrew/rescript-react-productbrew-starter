@@ -6,6 +6,7 @@
 .pnp.js
 .bsb.lock
 .merlin
+*.bs.js
 
 # testing
 /coverage
